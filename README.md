@@ -54,6 +54,6 @@ Contributions to the project are welcome! If you have any ideas for improvement,
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## Support
-For any inquiries or issues, please contact rupinajay@gmail.com, 
+For any inquiries or issues, please contact rupinajay@gmail.com, sansitakarthik2005@gmail.com
 
 
