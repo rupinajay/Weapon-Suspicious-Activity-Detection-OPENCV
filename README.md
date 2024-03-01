@@ -51,6 +51,9 @@ Detected emotions, weapon presence, and suspicious activity flags are displayed 
 Contributions to the project are welcome! If you have any ideas for improvement, suggestions, or bug fixes, feel free to open an issue or create a pull request.
 
 ## License
-This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+## Support
+For any inquiries or issues, please contact rupinajay@gmail.com, 
 
 
